@@ -1,5 +1,5 @@
 # 37. [解数独](https://leetcode-cn.com/problems/sudoku-solver/)  
-难度 <font color=red>困难</font>
+### 难度 <font color=#FF0000>困难</font>
 ---
 
 
