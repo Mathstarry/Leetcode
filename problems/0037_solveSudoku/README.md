@@ -16,9 +16,9 @@
 
 一个数独。
 
-![图片](https://github.com/Mathstarry/Leetcode/blob/master/problems/0037_solveSudoku/img/Sudoku1.png "已解数独")
+![图片](https://github.com/Mathstarry/Leetcode/blob/master/problems/0037_solveSudoku/img/Sudoku2.png "已解数独")
 
-答案被标成红色。
+答案被标成灰色。
 
 Note:
 
