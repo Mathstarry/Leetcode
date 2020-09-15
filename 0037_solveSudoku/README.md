@@ -1,5 +1,6 @@
 # 37. [解数独](https://leetcode-cn.com/problems/sudoku-solver/)  
-### 难度 <font color=red>困难</font>
+### 难度 <font color=Blue>困难</font>
+---
 
 
 编写一个程序，通过已填充的空格来解决数独问题。
