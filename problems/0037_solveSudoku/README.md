@@ -12,10 +12,11 @@
   3. 数字 `1-9` 在每一个以粗实线分隔的 `3x3` 宫内只能出现一次。
 空白格用 `'.'` 表示。
 
+![图片](https://github.com/Mathstarry/Leetcode/blob/master/problems/0037_solveSudoku/img/Sudoku1.png "初始数独")
 
 一个数独。
 
-
+![图片](https://github.com/Mathstarry/Leetcode/blob/master/problems/0037_solveSudoku/img/Sudoku1.png "已解数独")
 
 答案被标成红色。
 
