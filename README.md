@@ -4,6 +4,7 @@
 ---
 ## Tags 标签
 1. [回溯/DFS/BFS/递归](https://github.com/Mathstarry/Leetcode/tree/master/tags/trackback_DFS_BFS_recursion)  
+2. [并查集](https://github.com/Mathstarry/Leetcode/blob/master/tags/unionfind/README.md)
 
 [更多](https://github.com/Mathstarry/Leetcode/tree/master/tags)
 
