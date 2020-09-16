@@ -3,7 +3,7 @@
 
 ---
 ## Tags 标签
-[回溯/DFS/BFS/递归](https://github.com/Mathstarry/Leetcode/tree/master/tags/trackback_DFS_BFS_recursion)  
+1. [回溯/DFS/BFS/递归](https://github.com/Mathstarry/Leetcode/tree/master/tags/trackback_DFS_BFS_recursion)  
 
 [更多](https://github.com/Mathstarry/Leetcode/tree/master/tags)
 
