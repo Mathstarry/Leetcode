@@ -5,7 +5,7 @@
 
 
 
-## 并查集题目
+## 二叉树题目
 
 ### 简单
 226. [invertTree 翻转二叉树](https://github.com/Mathstarry/Leetcode/tree/master/problems/0226_invertTree)
