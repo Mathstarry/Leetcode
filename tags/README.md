@@ -3,3 +3,5 @@
 
 1. [回溯/DFS/BFS/递归](https://github.com/Mathstarry/Leetcode/tree/master/tags/trackback_DFS_BFS_recursion)
 2. [并查集](https://github.com/Mathstarry/Leetcode/tree/master/tags/unionfind)
+3. [二叉树](https://github.com/Mathstarry/Leetcode/tree/master/tags/binary-tree)
+4. [哈希表](https://github.com/Mathstarry/Leetcode/tree/master/tags/hashMap)
