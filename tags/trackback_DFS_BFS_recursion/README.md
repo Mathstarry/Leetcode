@@ -27,4 +27,4 @@
 
 ---
 ### 困难
-37. [solveSudoku 解数独](https://github.com/Mathstarry/Leetcode/tree/master/problems/0037_solveSudoku)
+[37. 解数独](https://github.com/Mathstarry/Leetcode/tree/master/problems/0037_solveSudoku)
