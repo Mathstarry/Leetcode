@@ -11,7 +11,7 @@
 
 ---
 ### 中等
-781. [numRabbits 森林中的兔子](https://github.com/Mathstarry/Leetcode/tree/master/problems/0781_numRabbits)
+[781. 森林中的兔子](https://github.com/Mathstarry/Leetcode/tree/master/problems/0781_numRabbits)
 
 
 ---
