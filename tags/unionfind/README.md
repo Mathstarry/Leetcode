@@ -21,8 +21,9 @@ note: 另一个可选的操作是增加 `isConnected(p:node, q:node)` 方法，�
 
 ---
 ### 中等
-
+[684. 冗余连接](https://github.com/Mathstarry/Leetcode/tree/master/problems/0684_findRedundantConnection)
 
 ---
 ### 困难
-765. [minSwapsCouples 情侣牵手](https://github.com/Mathstarry/Leetcode/tree/master/problems/0765_minSwapsCouples)
+[685. 冗余连接II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0685_findRedundantDirectedConnection)  
+[765. 情侣牵手](https://github.com/Mathstarry/Leetcode/tree/master/problems/0765_minSwapsCouples)
