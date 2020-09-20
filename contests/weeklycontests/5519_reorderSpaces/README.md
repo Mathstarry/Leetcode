@@ -1,4 +1,4 @@
-# 5519. [重新排列但此间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/)  
+# 5519. [重新排列单词间的空格](https://leetcode-cn.com/problems/rearrange-spaces-between-words/)  
 <font size=5> 难度 `简单` </font>
 ---
 
