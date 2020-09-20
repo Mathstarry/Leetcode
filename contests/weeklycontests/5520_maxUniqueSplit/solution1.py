@@ -6,6 +6,8 @@ class Solution:
                 return
 
             for l in range(1, n - idx + 1):
+                if len(a) + 1 + n - (idx + l) <= self.res:
+                    break
                 if s[idx: idx + l] not in a:
                     recur(a + [s[idx: idx + l]], idx + l)
 
