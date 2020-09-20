@@ -2,8 +2,14 @@
 
 ---
 
-
-
+## 20200920
+* [5504. 使数组和能被P整除](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5504_minSubarray)
+* [5505. 所有排列中的最大和](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5505_maxSumRangeQuery)
+* [5503. 所有奇数长度子数组的和](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5503_sumOddLengthSubarrays)
+* [404. 左叶子之和](https://github.com/Mathstarry/Leetcode/tree/master/problems/0404_sumOfLeftLeaves)
+* [面试题 17.23. 最大黑方阵](https://github.com/Mathstarry/Leetcode/tree/master/interview/intv17.23_%20findSquare)
+* [LCP 22. 黑白方格画](https://github.com/Mathstarry/Leetcode/tree/master/leetcodeCup/LCP0022_paintingPlan)
+---
 
 ## 20200919
 * [1161. 最大层内元素和](https://github.com/Mathstarry/Leetcode/tree/master/problems/1161_maxLevelSum)
