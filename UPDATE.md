@@ -1,6 +1,15 @@
 # <a name="Update">Update</a>
 
 ---
+
+
+
+
+## 20200919
+* [1161. 最大层内元素和](https://github.com/Mathstarry/Leetcode/tree/master/problems/1161_maxLevelSum)
+* [47. 全排列II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0047_permuteUnique)
+---
+
 ## 20200918
 * [865. 冗余连接II](https://github.com/Mathstarry/Leetcode/blob/master/problems/0685_findRedundantDirectedConnection)
 * [864. 冗余连接](https://github.com/Mathstarry/Leetcode/tree/master/problems/0684_findRedundantConnection)
