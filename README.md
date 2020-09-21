@@ -1,5 +1,7 @@
 # Leetcode
-记录leetcode学习过程
+记录leetcode学习过程 
+
+力扣主页: [https://leetcode-cn.com/u/mathstarry/](https://leetcode-cn.com/u/mathstarry/)
 
 ---
 ## Recommended Solutions 推荐题解
