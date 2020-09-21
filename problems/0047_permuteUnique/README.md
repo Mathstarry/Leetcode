@@ -1,4 +1,4 @@
-# 47. [全排列II](https://leetcode-cn.com/problems/permutations-ii/)  
+# 47. [全排列 II](https://leetcode-cn.com/problems/permutations-ii/)  
 <font size=5> 难度 `中等` </font>
 ---
 
