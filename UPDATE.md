@@ -2,7 +2,11 @@
 
 ---
 
-## 20200920
+## 2020/09/21
+* 增加了 [周赛统计](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/README.md)
+---
+
+## 2020/09/20
 * [5522. 连接两组点的最小成本](https://github.com/Mathstarry/Leetcode/tree/master/contests/weeklycontests/5522_connectTwoGroups)
 * [5521. 矩阵的最大非负积](https://github.com/Mathstarry/Leetcode/tree/master/contests/weeklycontests/5521_maxProductPath)
 * [5520. 拆分字符串使唯一子字符串数目最大](https://github.com/Mathstarry/Leetcode/tree/master/contests/weeklycontests/5520_maxUniqueSplit)
@@ -16,28 +20,28 @@
 * [LCP 22. 黑白方格画](https://github.com/Mathstarry/Leetcode/tree/master/leetcodeCup/LCP0022_paintingPlan)
 ---
 
-## 20200919
+## 2020/09/19
 * [1161. 最大层内元素和](https://github.com/Mathstarry/Leetcode/tree/master/problems/1161_maxLevelSum)
 * [47. 全排列II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0047_permuteUnique)
 ---
 
-## 20200918
+## 2020/09/18
 * [865. 冗余连接II](https://github.com/Mathstarry/Leetcode/blob/master/problems/0685_findRedundantDirectedConnection)
 * [864. 冗余连接](https://github.com/Mathstarry/Leetcode/tree/master/problems/0684_findRedundantConnection)
 ---
 
-## 20200917
+## 2020/09/17
 * 新增了 解数独[方法二](https://github.com/Mathstarry/Leetcode/blob/master/problems/0037_solveSudoku/ideas.md)
 * 增加了 [位运算技巧](https://github.com/Mathstarry/Leetcode/tree/master/tricks/bit-operation)  
 ---
 
-## 20200916
+## 2020/09/16
 * [781. 森林中的兔子](https://github.com/Mathstarry/Leetcode/tree/master/problems/0781_numRabbits)
 * [226. 翻转二叉树](https://github.com/Mathstarry/Leetcode/tree/master/problems/0226_invertTree)
 * [765. 情侣牵手](https://github.com/Mathstarry/Leetcode/tree/master/problems/0765_minSwapsCouples)
 ---
 
-## 20200915
+## 2020/09/15
 
 * [37. 解数独](https://github.com/Mathstarry/Leetcode/tree/master/problems/0037_solveSudoku)
 ---
