@@ -1,4 +1,4 @@
-# 5503. [所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)  
+# 1588. [所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)  
 <font size=5> 难度 `简单` </font>
 ---
 
