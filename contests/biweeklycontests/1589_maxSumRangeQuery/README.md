@@ -1,4 +1,4 @@
-# 5505. [所有排列中的最大和](https://leetcode-cn.com/problems/maximum-sum-obtained-of-any-permutation/)  
+# 1589. [所有排列中的最大和](https://leetcode-cn.com/problems/maximum-sum-obtained-of-any-permutation/)  
 <font size=5> 难度 `中等` </font>
 ---
 
