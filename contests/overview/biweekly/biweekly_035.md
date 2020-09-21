@@ -6,5 +6,5 @@
 | :--: | -- | :--: | -- | :--: | :--: | :--: | :--: |
 | ✅ | 5503 | [所有奇数长度子数组的和](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5503_sumOddLengthSubarrays) | | 简单 | 3 | 0:20:08 | |
 | ✅ | 5505 | [所有排列中的最大和](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5505_maxSumRangeQuery) | | 中等 | 5 | 0:46:11 | **1** |
-| ❎ | 5504 | [使数组和能被P整除](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5504_minSubarray) | | 中等 | 5 | | |
-| ❎ | 5506 | [奇怪的打印机II](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5506_isPrintable) | | 困难 | 6 | | |
+| ❎ | 5504 | [使数组和能被 P 整除](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5504_minSubarray) | | 中等 | 5 | | |
+| ❎ | 5506 | [奇怪的打印机 II](https://github.com/Mathstarry/Leetcode/tree/master/contests/biweeklycontests/5506_isPrintable) | | 困难 | 6 | | |
