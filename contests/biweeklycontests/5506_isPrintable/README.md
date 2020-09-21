@@ -1,4 +1,4 @@
-# 5506. [奇怪的打印机II](https://leetcode-cn.com/problems/strange-printer-ii/)  
+# 1591. [奇怪的打印机II](https://leetcode-cn.com/problems/strange-printer-ii/)  
 <font size=5> 难度 `困难` </font>
 ---
 
