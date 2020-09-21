@@ -1,4 +1,4 @@
-# 5520. [拆分字符串使唯一子字符串数目最大](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)  
+# 1593. [拆分字符串使唯一子字符串数目最大](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)  
 <font size=5> 难度 `中等` </font>
 ---
 
