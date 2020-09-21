@@ -5,8 +5,8 @@
 ## Recommended Solutions 推荐题解
 | # | 题名 | 题解 |
 | -- | -- | -- |
-| 47 | [全排列II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0047_permuteUnique) | [排列组合(查全/去重)](https://github.com/Mathstarry/Leetcode/blob/master/problems/0047_permuteUnique/ideas.md) |
-| 685 | [冗余连接II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0685_findRedundantDirectedConnection) | [启发式方法+并查集(Py3速度96%以上)](https://leetcode-cn.com/problems/redundant-connection-ii/solution/qi-fa-shi-fang-fa-bing-cha-ji-py3su-du-96yi-shang-/) |
+| 47 | [全排列 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0047_permuteUnique) | [排列组合(查全/去重)](https://github.com/Mathstarry/Leetcode/blob/master/problems/0047_permuteUnique/ideas.md) |
+| 685 | [冗余连接 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0685_findRedundantDirectedConnection) | [启发式方法+并查集(Py3速度96%以上)](https://leetcode-cn.com/problems/redundant-connection-ii/solution/qi-fa-shi-fang-fa-bing-cha-ji-py3su-du-96yi-shang-/) |
 
 ---
 
