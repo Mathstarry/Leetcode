@@ -1,4 +1,4 @@
-# 第207场周赛
+# 第 207 场周赛
 
 ## [比赛地址](https://leetcode-cn.com/contest/weekly-contest-207/)
 
