@@ -1,4 +1,4 @@
-# 5522. [连接两组点的最小成本](https://leetcode-cn.com/problems/minimum-cost-to-connect-two-groups-of-points/)  
+# 1595. [连接两组点的最小成本](https://leetcode-cn.com/problems/minimum-cost-to-connect-two-groups-of-points/)  
 <font size=5> 难度 `困难` </font>
 ---
 
