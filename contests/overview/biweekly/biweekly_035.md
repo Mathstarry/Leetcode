@@ -1,4 +1,4 @@
-# 第35场双周赛
+# 第 35 场双周赛
 
 ## [比赛地址](https://leetcode-cn.com/contest/biweekly-contest-35/)
 
