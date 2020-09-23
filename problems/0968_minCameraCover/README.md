@@ -1,5 +1,5 @@
 # 968. [监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/)  
-<font size=5> 难度 `中等` </font>
+<font size=5> 难度 `困难` </font>
 ---
 
 ### 题目描述
