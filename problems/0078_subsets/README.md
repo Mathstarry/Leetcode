@@ -1,3 +1,10 @@
+# 78. [子集](https://leetcode-cn.com/problems/subsets/)  
+<font size=5> 难度 `中等` </font>
+---
+
+### 题目描述
+
+
 给定一组**不含重复元素**的整数数组 nums，返回该数组所有可能的子集（幂集）。
 
 说明：解集不能包含重复的子集。
