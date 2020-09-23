@@ -14,6 +14,7 @@
 
 示例 1：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0968_minCameraCover/img/968_pic1.png" width = "150" height = "200" alt="" align=center />
 
 ```
 输入：[0,0,null,0,0]
@@ -22,6 +23,7 @@
 ```
 示例 2：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0968_minCameraCover/img/968_pic2.png" width = "150" height = "300" alt="" align=center />
 
 ```
 输入：[0,0,null,0,null,0,null,null,0]
