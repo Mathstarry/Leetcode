@@ -16,6 +16,7 @@
 
 示例 **1**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/contests/biweeklycontests/1591_isPrintable/img/5506_pic1.png" width = "550" height = "175" alt="" align=center />
 
 ```
 输入：targetGrid = [[1,1,1,1],[1,2,2,1],[1,2,2,1],[1,1,1,1]]
@@ -23,6 +24,7 @@
 ```
 示例 **2**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/contests/biweeklycontests/1591_isPrintable/img/5506_pic2.png" width = "550" height = "350" alt="" align=center />
 
 ```
 输入：targetGrid = [[1,1,1,1],[1,1,3,3],[1,1,3,4],[5,5,1,4]]
