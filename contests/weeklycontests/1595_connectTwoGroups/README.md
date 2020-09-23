@@ -15,6 +15,7 @@
 
 示例 **1**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/contests/weeklycontests/1595_connectTwoGroups/img/5522_pic1.png" width = "300" height = "210" alt="" align=center />
 
 ```
 输入：cost = [[15, 96], [36, 2]]
@@ -26,6 +27,7 @@
 ```
 示例 **2**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/contests/weeklycontests/1595_connectTwoGroups/img/5522_pic2.png" width = "300" height = "330" alt="" align=center />
 
 ```
 输入：cost = [[1, 3, 5], [4, 1, 1], [1, 5, 3]]
