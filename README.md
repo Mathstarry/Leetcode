@@ -27,9 +27,9 @@
 
 ---
 ## Update 更新日志
+2020/09/25 新增了题目 [106. 从中序与后序遍历序列构造二叉树...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0106_buildTree) 中等  
+2020/09/24 新增了题目 [11. 盛最多水的容器...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0011_maxArea) 中等  
 2020/09/23 新增了题目 [617. 合并二叉树...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0617_mergeTrees) 简单  
 2020/09/21 增加了 [周赛统计...](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/README.md)  
-2020/09/20 新增了题目 [LCP 22. 黑白方格画...](https://github.com/Mathstarry/Leetcode/tree/master/leetcodeCup/LCP0022_paintingPlan) 简单  
-2020/09/19 新增了题目 [1161. 最大层内元素和...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1161_maxLevelSum) 中等  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
