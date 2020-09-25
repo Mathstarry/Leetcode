@@ -3,12 +3,13 @@
 ---
 
 ## 2020/09/25
-* [11. 盛最多水的容器](https://github.com/Mathstarry/Leetcode/tree/master/problems/0011_maxArea)
-* [501. 二叉搜索树中的众数](https://github.com/Mathstarry/Leetcode/tree/master/problems/0501_findMode)
-* [238. 除自身以外数组的乘积](https://github.com/Mathstarry/Leetcode/tree/master/problems/0238_productExceptSelf)
+* [106. 从中序与后序遍历序列构造二叉树](https://github.com/Mathstarry/Leetcode/tree/master/problems/0106_buildTree)
+* [22. 括号生成](https://github.com/Mathstarry/Leetcode/tree/master/problems/22_generateParenthesis)
 ---
 
 ## 2020/09/24
+* [11. 盛最多水的容器](https://github.com/Mathstarry/Leetcode/tree/master/problems/0011_maxArea)
+* [501. 二叉搜索树中的众数](https://github.com/Mathstarry/Leetcode/tree/master/problems/0501_findMode)
 * [238. 除自身以外数组的乘积](https://github.com/Mathstarry/Leetcode/tree/master/problems/0238_productExceptSelf)
 ---
 
