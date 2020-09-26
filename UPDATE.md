@@ -3,6 +3,7 @@
 ---
 
 ## 2020/09/26
+* [offer43. 1～n整数中1出现的次数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer43_countDigitOne)
 * [113. 路径总和 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0113_pathSum)
 * [46. 全排列](https://github.com/Mathstarry/Leetcode/tree/master/problems/0046_permute)
 ---
