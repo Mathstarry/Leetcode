@@ -2,9 +2,14 @@
 
 ---
 
+## 2020/09/26
+* [113. 路径总和 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0113_pathSum)
+* [46. 全排列](https://github.com/Mathstarry/Leetcode/tree/master/problems/0046_permute)
+---
+
 ## 2020/09/25
 * [106. 从中序与后序遍历序列构造二叉树](https://github.com/Mathstarry/Leetcode/tree/master/problems/0106_buildTree)
-* [22. 括号生成](https://github.com/Mathstarry/Leetcode/tree/master/problems/22_generateParenthesis)
+* [22. 括号生成](https://github.com/Mathstarry/Leetcode/tree/master/problems/0022_generateParenthesis)
 ---
 
 ## 2020/09/24
