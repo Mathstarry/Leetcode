@@ -27,9 +27,9 @@
 
 ---
 ## Update 更新日志
+2020/09/27 新增了题目 [offer49. 丑数...](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer49_nthUglyNumber) 中等  
 2020/09/26 新增了题目 [offer44. 数字序列中某一位的数字...](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer44_findNthDigit) 中等  
 2020/09/25 新增了题目 [106. 从中序与后序遍历序列构造二叉树...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0106_buildTree) 中等  
 2020/09/24 新增了题目 [11. 盛最多水的容器...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0011_maxArea) 中等  
-2020/09/23 新增了题目 [617. 合并二叉树...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0617_mergeTrees) 简单  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
