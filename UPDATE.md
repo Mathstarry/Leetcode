@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/09/27
+* [offer49. 丑数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer49_nthUglyNumber)
+* [offer48. 最长不含重复字符的子字符串](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer48_lengthOfLongestSubstring)
+* [offer46. 把数字翻译成字符串](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer46_translateNum)
+* [offer45. 把数组排成最小的数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer45_minNumber)
+---
 
 ## 2020/09/26
 * [offer44. 数字序列中某一位的数字](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer44_findNthDigit)
