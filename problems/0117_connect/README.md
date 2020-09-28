@@ -24,8 +24,7 @@ struct Node {
 * 你只能使用常量级额外空间。
 * 使用递归解题也符合要求，本题中递归程序占用的栈空间不算做额外的空间复杂度。
  
-
-示例：
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0117_connect/img/117_pic.png" width = "600" height = "250" alt="" align=center />
 
 
 ```
@@ -45,7 +44,6 @@ struct Node {
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
  
-<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0011_maxArea/img/0011_pic1.png" width = "700" height = "400" alt="" align=center />
 
 
  
