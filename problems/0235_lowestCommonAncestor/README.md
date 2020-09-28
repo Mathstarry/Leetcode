@@ -11,8 +11,9 @@
 例如，给定如下二叉搜索树:  root = [6,2,8,0,4,7,9,null,null,3,5]
 
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0235_lowestCommonAncestor/img/235_pic1.png" width = "220" height = "200" alt="" align=center />
 
- 
+
 
 示例 1:
 ```
