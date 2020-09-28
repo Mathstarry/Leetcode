@@ -8,15 +8,13 @@
 
 求在该柱状图中，能够勾勒出来的矩形的最大面积。
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0084_largestRectangleArea/img/84_pic1.png" width = "260" height = "250" alt="" align=center />
+
+
+以上是柱状图的示例，其中每个柱子的宽度为 1，给定的高度为 `[2,1,5,6,2,3]`。
+
  
-
-
-
-以上是柱状图的示例，其中每个柱子的宽度为 1，给定的高度为 [2,1,5,6,2,3]。
-
- 
-
-
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0084_largestRectangleArea/img/84_pic2.png" width = "260" height = "250" alt="" align=center />
 
 图中阴影部分为所能勾勒出的最大矩形面积，其面积为 10 个单位。
 
