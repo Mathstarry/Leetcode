@@ -5,18 +5,23 @@
 **二分图**:  
 图中所有的顶点可以分成两部分，每个点只与另一部分中的若干个点有连接，同一部分内的点不会有任何连接。
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/tags/bipartite-graph/img/pic1.png" width = "215" height = "275" alt="" align=center />
+
 
 **匹配**:  
 将两部分中的部分点连接起来，并且满足任意两条边之间没有公共顶点，的边的集合称为二分图的一个匹配。匹配不一定要使所有顶点都有相关边，所以匹配可以有许多种。
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/tags/bipartite-graph/img/pic2.png" width = "215" height = "275" alt="" align=center />
 
 **增广路径**:  
-对于图 2 中的匹配 M，我们能找到一条路径 P: `D-2-B-3-C-4`，使得该路径上交替出现在匹配 M 中的边和不在匹配 M 中的边，我们称这条路径为匹配 M 的一条增广路径。
+对于图 2 中的匹配 M，如果我们能找到一条路径 P: `D-2-B-3-C-4`，使得该路径上交替出现在匹配 M 中的边和不在匹配 M 中的边，则称这条路径为匹配 M 的一条增广路径。
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/tags/bipartite-graph/img/pic3.png" width = "215" height = "275" alt="" align=center />
 
 **最大匹配**:  
 如果在一个匹配中，不能找到关于这个匹配的一条增广路径，那么我们称这个匹配为这个二分图的一个最大匹配，需要注意的是，最大匹配不一定是唯一的(不妨考虑完全图)。
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/tags/bipartite-graph/img/pic4.png" width = "215" height = "275" alt="" align=center />
 
 **匈牙利算法**:  
 目的: 找到一个关于改二分图的最大匹配。  
