@@ -21,7 +21,8 @@
 解释：我们最多可以放两块骨牌：[[0, 0], [0, 1]]以及[[0, 2], [1, 2]]。（见下图）
 ```
 
- 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/leetcodeCup/LCP0004_domino/img/LCP4_pic1.png" width = "300" height = "200" alt="" align=center />
+
 
 示例 2：
 ```
@@ -30,7 +31,7 @@
 解释：下图是其中一种可行的摆放方式
 ```
 
- 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/leetcodeCup/LCP0004_domino/img/LCP4_pic2.png" width = "300" height = "300" alt="" align=center />
 
 限制：
 
