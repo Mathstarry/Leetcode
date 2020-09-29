@@ -22,14 +22,17 @@
 ## Tags 标签
 1. [回溯/DFS/BFS/递归](https://github.com/Mathstarry/Leetcode/tree/master/tags/trackback_DFS_BFS_recursion)  
 2. [并查集](https://github.com/Mathstarry/Leetcode/blob/master/tags/unionfind/README.md)
+3. [二叉树](https://github.com/Mathstarry/Leetcode/tree/master/tags/binary-tree)
+4. [哈希表](https://github.com/Mathstarry/Leetcode/tree/master/tags/hashMap)
+5. [匈牙利算法](https://github.com/Mathstarry/Leetcode/tree/master/tags/bipartite-graph)
 
 [更多](https://github.com/Mathstarry/Leetcode/tree/master/tags)
 
 ---
 ## Update 更新日志
+2020/09/29 新增了 tag [匈牙利算法](https://github.com/Mathstarry/Leetcode/tree/master/tags/bipartite-graph)
 2020/09/28 新增了题目 [84. 柱状图中最大的矩形...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0084_largestRectangleArea) 困难  
 2020/09/27 新增了题目 [offer49. 丑数...](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer49_nthUglyNumber) 中等  
 2020/09/26 新增了题目 [offer44. 数字序列中某一位的数字...](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer44_findNthDigit) 中等  
-2020/09/25 新增了题目 [106. 从中序与后序遍历序列构造二叉树...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0106_buildTree) 中等  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
