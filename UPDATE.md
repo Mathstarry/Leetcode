@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/09/30
+* [offer51. 数组中的逆序对](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer51_reversePairs)
+---
+
 ## 2020/09/29
 * [145. 二叉树的后序遍历](https://github.com/Mathstarry/Leetcode/tree/master/problems/0145_postorderTraversal)
 * 新增了 tag [匈牙利算法](https://github.com/Mathstarry/Leetcode/tree/master/tags/bipartite-graph)
