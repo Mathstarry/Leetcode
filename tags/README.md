@@ -6,3 +6,4 @@
 3. [二叉树](https://github.com/Mathstarry/Leetcode/tree/master/tags/binary-tree)
 4. [哈希表](https://github.com/Mathstarry/Leetcode/tree/master/tags/hashMap)
 5. [匈牙利算法](https://github.com/Mathstarry/Leetcode/tree/master/tags/bipartite-graph)
+6. [树状数组](https://github.com/Mathstarry/Leetcode/tree/master/tags/fenwickTree)
