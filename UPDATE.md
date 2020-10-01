@@ -1,6 +1,15 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/01
+* 新增了 tag [树状数组](https://github.com/Mathstarry/Leetcode/tree/master/tags/fenwickTree)
+* [701. 二叉搜索树中的插入操作](https://github.com/Mathstarry/Leetcode/tree/master/problems/0701_insertIntoBST)
+* [offer54. 二叉搜索树的第k大节点](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer54_kthLargest)
+* [offer53-2. 0～n-1中缺失的数字](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer53-2_missingNumber)
+* [offer53-1. 在排序数组中查找数字 I](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer53-1_search)
+* [offer52. 两个链表的第一个公共节点](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer52_getIntersectionNode)
+---
+
 ## 2020/09/30
 * [offer51. 数组中的逆序对](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer51_reversePairs)
 ---
