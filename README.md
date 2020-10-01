@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/01 新增了 tag [树状数组](https://github.com/Mathstarry/Leetcode/tree/master/tags/fenwickTree)   
 2020/09/30 新增了题目 [offer51. 数组中的逆序对](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer51_reversePairs) 困难  
 2020/09/29 新增了 tag [匈牙利算法](https://github.com/Mathstarry/Leetcode/tree/master/tags/bipartite-graph)  
 2020/09/28 新增了题目 [84. 柱状图中最大的矩形...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0084_largestRectangleArea) 困难  
-2020/09/27 新增了题目 [offer49. 丑数...](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer49_nthUglyNumber) 中等  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
