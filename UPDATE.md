@@ -1,6 +1,15 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/02
+* [offer57-2. 和为s的连续正数序列](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer57-2_findContinuousSequence)
+* [offer57. 和为s的两个数字](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer57_twoSum)
+* [offer56-2. 数组中数字出现的次数 II](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer56-2_singleNumber)
+* [offer56-1. 数组中数字出现的次数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer56-1_singleNumbers)
+* [offer55-2. 平衡二叉树](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer55-2_isBalanced)
+* [offer55-1. 二叉树的深度](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer55-1_maxDepth)
+---
+
 ## 2020/10/01
 * 新增了 tag [树状数组](https://github.com/Mathstarry/Leetcode/tree/master/tags/fenwickTree)
 * [701. 二叉搜索树中的插入操作](https://github.com/Mathstarry/Leetcode/tree/master/problems/0701_insertIntoBST)
