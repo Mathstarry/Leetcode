@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/03 新增了题目 [offer61. 扑克牌中的顺子](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer61_isStraight) 简单  
 2020/10/02 新增了题目 [offer57-2. 和为s的连续正数序列](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer57-2_findContinuousSequence) 简单  
 2020/10/01 新增了 tag [树状数组](https://github.com/Mathstarry/Leetcode/tree/master/tags/fenwickTree)   
 2020/09/30 新增了题目 [offer51. 数组中的逆序对](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer51_reversePairs) 困难  
-2020/09/29 新增了 tag [匈牙利算法](https://github.com/Mathstarry/Leetcode/tree/master/tags/bipartite-graph)  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
