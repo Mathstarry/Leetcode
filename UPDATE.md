@@ -1,6 +1,14 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/03
+* [offer61. 扑克牌中的顺子](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer61_isStraight)
+* [offer60. n个骰子的点数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer60_twoSum)
+* [offer59-1. 滑动窗口的最大值](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer59-1_maxSlidingWindow)
+* [offer58-2. 左旋转字符串](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer58-2_reverseLeftWords)
+* [offer58-1. 翻转单词顺序](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer58-1_reverseWords)
+---
+
 ## 2020/10/02
 * [offer57-2. 和为s的连续正数序列](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer57-2_findContinuousSequence)
 * [offer57. 和为s的两个数字](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer57_twoSum)
