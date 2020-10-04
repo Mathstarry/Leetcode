@@ -1,6 +1,13 @@
 # <a name="Update">Update</a>
 
 ---
+
+## 2020/10/04
+* 新增了 tag [单调栈](https://github.com/Mathstarry/Leetcode/tree/master/tags/monotoneStack)
+* [1. 区间极值异或](https://github.com/Mathstarry/Leetcode/tree/master/others/0001_XorSum)
+
+---
+
 ## 2020/10/03
 * [offer61. 扑克牌中的顺子](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer61_isStraight)
 * [offer60. n个骰子的点数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer60_twoSum)
