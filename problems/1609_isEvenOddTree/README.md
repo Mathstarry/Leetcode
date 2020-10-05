@@ -16,6 +16,7 @@
 
 示例 **1**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1609_isEvenOddTree/img/1609_pic1.png" width = "600" height = "330" alt="" align=center />
 
 ```
 输入：root = [1,10,4,3,null,7,9,12,8,6,null,null,2]
@@ -29,6 +30,7 @@
 ```
 示例 **2**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1609_isEvenOddTree/img/1609_pic2.png" width = "500" height = "225" alt="" align=center />
 
 ```
 输入：root = [5,4,2,3,3,7]
@@ -41,6 +43,7 @@
 ```
 示例 **3**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1609_isEvenOddTree/img/1609_pic3.png" width = "500" height = "225" alt="" align=center />
 
 ```
 输入：root = [5,9,1,3,5,7]
