@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/05 新增了题目 [1609. 奇偶树...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1609_isEvenOddTree) 中等  
+2020/10/04 新增了 tag [单调栈](https://github.com/Mathstarry/Leetcode/tree/master/tags/monotoneStack)   
 2020/10/03 新增了题目 [offer61. 扑克牌中的顺子](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer61_isStraight) 简单  
 2020/10/02 新增了题目 [offer57-2. 和为s的连续正数序列](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer57-2_findContinuousSequence) 简单  
-2020/10/01 新增了 tag [树状数组](https://github.com/Mathstarry/Leetcode/tree/master/tags/fenwickTree)   
-2020/09/30 新增了题目 [offer51. 数组中的逆序对](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer51_reversePairs) 困难  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
