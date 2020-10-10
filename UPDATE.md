@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/10
+* [LCP 19. 秋叶收藏集](https://github.com/Mathstarry/Leetcode/tree/master/leetcodeCup/LCP0019_minimumOperations)
+* [offer63. 股票的最大利润](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer63_maxProfit)
+* [offer61. 圆圈中最后剩下的数字](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer62_lastRemaining)
+---
+
 ## 2020/10/05
 * [1609. 奇偶树](https://github.com/Mathstarry/Leetcode/tree/master/problems/1609_isEvenOddTree)
 * [1608. 特殊数组的特征值](https://github.com/Mathstarry/Leetcode/tree/master/problems/1608_specialArray)
