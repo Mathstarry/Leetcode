@@ -1,6 +1,14 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/11
+* [29. 两数相除](https://github.com/Mathstarry/Leetcode/tree/master/problems/0029_divide)
+* [771. 宝石与石头](https://github.com/Mathstarry/Leetcode/tree/master/problems/0771_numJewelsInStones)
+* [827. 最大人工岛](https://github.com/Mathstarry/Leetcode/tree/master/problems/0827_largestIsland)
+* [289. 生命游戏](https://github.com/Mathstarry/Leetcode/tree/master/problems/0289_gameOfLife)
+* [126. 单词接龙 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0126_findLadders)
+---
+
 ## 2020/10/10
 * [LCP 19. 秋叶收藏集](https://github.com/Mathstarry/Leetcode/tree/master/leetcodeCup/LCP0019_minimumOperations)
 * [offer63. 股票的最大利润](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer63_maxProfit)
