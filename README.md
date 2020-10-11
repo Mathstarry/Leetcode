@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/11 新增了题目 [29. 两数相除...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0029_divide) 中等  
 2020/10/10 新增了题目 [LCP 19. 秋叶收藏集...](https://github.com/Mathstarry/Leetcode/tree/master/leetcodeCup/LCP0019_minimumOperations) 中等  
 2020/10/05 新增了题目 [1609. 奇偶树...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1609_isEvenOddTree) 中等  
 2020/10/04 新增了 tag [单调栈](https://github.com/Mathstarry/Leetcode/tree/master/tags/monotoneStack)   
-2020/10/03 新增了题目 [offer61. 扑克牌中的顺子](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer61_isStraight) 简单  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
