@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/12
+* [300. 最长上升子序列](https://github.com/Mathstarry/Leetcode/tree/master/problems/0300_lengthOfLIS)
+---
+
 ## 2020/10/11
 * [29. 两数相除](https://github.com/Mathstarry/Leetcode/tree/master/problems/0029_divide)
 * [771. 宝石与石头](https://github.com/Mathstarry/Leetcode/tree/master/problems/0771_numJewelsInStones)
