@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/14
+* [offer64. 求1+2+…+n](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer64_sumNums)
+---
+
 ## 2020/10/13
 * [offer66. 构建乘积数组](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer66_constructArr)
 * [offer65. 不用加减乘除做加法](https://github.com/Mathstarry/Leetcode/new/master/getOffer/offer65_add)
