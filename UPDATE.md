@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/15
+* [offer67. 把字符串转换成整数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer67_strToInt)
+---
+
 ## 2020/10/14
 * [offer64. 求1+2+…+n](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer64_sumNums)
 ---
