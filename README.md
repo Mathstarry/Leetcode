@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/16 新增了题目 [offer68-2. 二叉树的最近公共祖先...](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer68-2_lowestCommonAncestor) 中等  
 2020/10/15 新增了题目 [offer67. 把字符串转换成整数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer67_strToInt) 中等  
 2020/10/14 新增了题目 [offer64. 求1+2+…+n](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer64_sumNums) 中等  
 2020/10/13 新增了题目 [offer66. 构建乘积数组](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer66_constructArr) 中等  
-2020/10/12 新增了题目 [300. 最长上升子序列](https://github.com/Mathstarry/Leetcode/tree/master/problems/0300_lengthOfLIS) 中等  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
