@@ -10,6 +10,7 @@
 
 例如，给定如下二叉搜索树:  root = [6,2,8,0,4,7,9,null,null,3,5]
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/getOffer/offer68-1_lowestCommonAncestor/img/offer68-1_pic.png" width = "280" height = "250" alt="" align=center />
 
 
 示例 **1**:
