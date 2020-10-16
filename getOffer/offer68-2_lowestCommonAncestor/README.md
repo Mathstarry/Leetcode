@@ -10,7 +10,7 @@
 
 例如，给定如下二叉树:  root = [3,5,1,6,2,0,8,null,null,7,4]
 
-
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/getOffer/offer68-2_lowestCommonAncestor/img/offer68-2_pic.png" width = "280" height = "250" alt="" align=center />
 
  
 
