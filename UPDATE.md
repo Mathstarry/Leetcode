@@ -1,6 +1,11 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/16
+* [offer68-2. 二叉树的最近公共祖先](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer68-2_lowestCommonAncestor)
+* [offer68-1. 二叉搜索树的最近公共祖先](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer68-1_lowestCommonAncestor)
+---
+
 ## 2020/10/15
 * [offer67. 把字符串转换成整数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer67_strToInt)
 ---
