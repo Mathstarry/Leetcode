@@ -1,6 +1,14 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/17
+* [18. 四数之和](https://github.com/Mathstarry/Leetcode/tree/master/problems/0018_fourSum)
+* [73. 矩阵置零](https://github.com/Mathstarry/Leetcode/tree/master/problems/0073_setZeroes)
+* [2. 两数相加](https://github.com/Mathstarry/Leetcode/tree/master/problems/0002_addTwoNumbers)
+* [739. 每日温度](https://github.com/Mathstarry/Leetcode/tree/master/problems/0739_dailyTemperatures)
+* [496. 下一个更大元素 I](https://github.com/Mathstarry/Leetcode/tree/master/problems/0496_nextGreaterElement)
+---
+
 ## 2020/10/16
 * [offer68-2. 二叉树的最近公共祖先](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer68-2_lowestCommonAncestor)
 * [offer68-1. 二叉搜索树的最近公共祖先](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer68-1_lowestCommonAncestor)
