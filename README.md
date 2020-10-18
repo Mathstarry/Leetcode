@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/18 新增了题目 [141. 环形链表...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0141_hasCycle) 简单  
 2020/10/17 新增了题目 [18. 四数之和...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0018_fourSum) 中等  
 2020/10/16 新增了题目 [offer68-2. 二叉树的最近公共祖先...](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer68-2_lowestCommonAncestor) 中等  
 2020/10/15 新增了题目 [offer67. 把字符串转换成整数](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer67_strToInt) 中等  
-2020/10/14 新增了题目 [offer64. 求1+2+…+n](https://github.com/Mathstarry/Leetcode/tree/master/getOffer/offer64_sumNums) 中等  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
