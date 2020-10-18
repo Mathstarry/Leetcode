@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/18
+* [141. 环形链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0141_hasCycle)
+* [344. 反转字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/0344_reverseString)
+* [75. 颜色分类](https://github.com/Mathstarry/Leetcode/tree/master/problems/0075_sortColors)
+---
+
 ## 2020/10/17
 * [18. 四数之和](https://github.com/Mathstarry/Leetcode/tree/master/problems/0018_fourSum)
 * [73. 矩阵置零](https://github.com/Mathstarry/Leetcode/tree/master/problems/0073_setZeroes)
