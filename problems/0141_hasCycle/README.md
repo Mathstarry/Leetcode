@@ -21,6 +21,7 @@
 
 示例 1：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0141_hasCycle/img/141_pic1.png" width = "380" height = "130" alt="" align=center />
 
 ```
 输入：head = [3,2,0,-4], pos = 1
@@ -29,6 +30,7 @@
 ```
 示例 2：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0141_hasCycle/img/141_pic2.png" width = "200" height = "120" alt="" align=center />
 
 ```
 输入：head = [1,2], pos = 0
@@ -37,6 +39,7 @@
 ```
 示例 3：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0141_hasCycle/img/141_pic3.png" width = "100" height = "80" alt="" align=center />
 
 ```
 输入：head = [1], pos = -1
