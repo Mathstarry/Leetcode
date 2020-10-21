@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/21
+* [142. 环形链表 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0142_detectCycle)
+---
+
 ## 2020/10/18
 * [141. 环形链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0141_hasCycle)
 * [344. 反转字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/0344_reverseString)
