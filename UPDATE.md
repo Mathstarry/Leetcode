@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/22
+* [1616. 分割两个字符串得到回文串](https://github.com/Mathstarry/Leetcode/tree/master/problems/1616_checkPalindromeFormation)
+* [1615. 最大网络秩](https://github.com/Mathstarry/Leetcode/tree/master/problems/1615_maximalNetworkRank)
+* [1614. 括号的最大嵌套深度](https://github.com/Mathstarry/Leetcode/tree/master/problems/1614_maxDepth)
+---
+
 ## 2020/10/21
 * [142. 环形链表 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0142_detectCycle)
 ---
