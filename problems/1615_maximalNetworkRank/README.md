@@ -16,6 +16,7 @@
 
 示例 **1**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1615_maximalNetworkRank/img/1615_pic1.png" width = "300" height = "180" alt="" align=center />
 
 ```
 输入：n = 4, roads = [[0,1],[0,3],[1,2],[1,3]]
@@ -24,6 +25,7 @@
 ```
 示例 **2**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1615_maximalNetworkRank/img/1615_pic2.png" width = "300" height = "180" alt="" align=center />
 
 ```
 输入：n = 5, roads = [[0,1],[0,3],[1,2],[1,3],[2,3],[2,4]]
