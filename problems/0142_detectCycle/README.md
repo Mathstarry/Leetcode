@@ -17,6 +17,8 @@
 
 示例 1：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0142_detectCycle/img/142_pic1.png" width = "400" height = "130" alt="" align=center />
+
 
 ```
 输入：head = [3,2,0,-4], pos = 1
@@ -25,6 +27,8 @@
 ```
 示例 2：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0142_detectCycle/img/142_pic2.png" width = "200" height = "120" alt="" align=center />
+
 
 ```
 输入：head = [1,2], pos = 0
@@ -32,6 +36,8 @@
 解释：链表中有一个环，其尾部连接到第一个节点。
 ```
 示例 3：
+
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0142_detectCycle/img/142_pic3.png" width = "80" height = "70" alt="" align=center />
 
 
 ```
