@@ -22,6 +22,9 @@ X-Y 坐标系内的 **整数** 坐标。两个坐标之间的距离用 **欧�
 
 示例 **1**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1620_bestCoordinate/img/1620_pic.png" width = "200" height = "200" alt="" align=center />
+
+
 ```
 输入：towers = [[1,2,5],[2,1,7],[3,1,9]], radius = 2
 输出：[2,1]
