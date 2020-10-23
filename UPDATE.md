@@ -1,6 +1,14 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/23
+* [1626. 无矛盾的最佳球队](https://github.com/Mathstarry/Leetcode/tree/master/problems/1626_bestTeamScore)
+* [1624. 两个相同字符之间的最长子字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/1624_maxLengthBetweenEqualCharacters)
+* [1621. 大小为 K 的不重叠线段的数目](https://github.com/Mathstarry/Leetcode/tree/master/problems/1621_numberOfSets)
+* [1620. 网络信号最好的坐标](https://github.com/Mathstarry/Leetcode/tree/master/problems/1620_bestCoordinate)
+* [1619. 删除某些元素后的数组均值](https://github.com/Mathstarry/Leetcode/tree/master/problems/1619_trimMean)
+---
+
 ## 2020/10/22
 * [1616. 分割两个字符串得到回文串](https://github.com/Mathstarry/Leetcode/tree/master/problems/1616_checkPalindromeFormation)
 * [1615. 最大网络秩](https://github.com/Mathstarry/Leetcode/tree/master/problems/1615_maximalNetworkRank)
