@@ -13,6 +13,9 @@
 
 示例 **1**：
 
+
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1621_numberOfSets/img/1621_pic.png" width = "250" height = "280" alt="" align=center />
+
 ```
 输入：n = 4, k = 2
 输出：5
