@@ -12,6 +12,8 @@
 
 示例 1：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0024_swapPairs/img/24_pic.png" width = "500" height = "280" alt="" align=center />
+
 ```
 输入：head = [1,2,3,4]
 输出：[2,1,4,3]
