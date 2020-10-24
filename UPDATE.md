@@ -1,6 +1,13 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/24
+* [436. 寻找右区间](https://github.com/Mathstarry/Leetcode/tree/master/problems/0436_findRightInterval)
+* [24. 两两交换链表中的节点](https://github.com/Mathstarry/Leetcode/tree/master/problems/0024_swapPairs)
+* [530. 二叉搜索树的最小绝对差](https://github.com/Mathstarry/Leetcode/tree/master/problems/0530_getMinimumDifference)
+* [416. 分割等和子集](https://github.com/Mathstarry/Leetcode/tree/master/problems/0416_canPartition)
+---
+
 ## 2020/10/23
 * [1626. 无矛盾的最佳球队](https://github.com/Mathstarry/Leetcode/tree/master/problems/1626_bestTeamScore)
 * [1624. 两个相同字符之间的最长子字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/1624_maxLengthBetweenEqualCharacters)
