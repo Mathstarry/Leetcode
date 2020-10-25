@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/25
+* [1002. 查找常用字符](https://github.com/Mathstarry/Leetcode/tree/master/problems/1002_commonChars)
+---
+
 ## 2020/10/24
 * [436. 寻找右区间](https://github.com/Mathstarry/Leetcode/tree/master/problems/0436_findRightInterval)
 * [24. 两两交换链表中的节点](https://github.com/Mathstarry/Leetcode/tree/master/problems/0024_swapPairs)
