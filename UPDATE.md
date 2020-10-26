@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/26
+* [52. N皇后 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0052_totalNQueens)
+* [977. 有序数组的平方](https://github.com/Mathstarry/Leetcode/tree/master/problems/0977_sortedSquares)
+* [116. 填充每个节点的下一个右侧节点指针](https://github.com/Mathstarry/Leetcode/tree/master/problems/0116_connect)
+---
+
 ## 2020/10/25
 * [1002. 查找常用字符](https://github.com/Mathstarry/Leetcode/tree/master/problems/1002_commonChars)
 ---
