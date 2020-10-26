@@ -21,6 +21,8 @@ struct Node {
 
 示例：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0116_connect/img/116_pic.png" width = "700" height = "270" alt="" align=center />
+
 
 ```
 输入：{"$id":"1","left":{"$id":"2","left":{"$id":"3","left":null,"next":null,"right":null,"val":4},"next":null,"right":{"$id":"4","left":null,"next":null,"right":null,"val":5},"val":2},"next":null,"right":{"$id":"5","left":{"$id":"6","left":null,"next":null,"right":null,"val":6},"next":null,"right":{"$id":"7","left":null,"next":null,"right":null,"val":7},"val":3},"val":1}
