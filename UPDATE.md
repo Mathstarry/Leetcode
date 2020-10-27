@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/27
+* [19. 删除链表的倒数第N个节点](https://github.com/Mathstarry/Leetcode/tree/master/problems/0019_removeNthFromEnd)
+* [921. 使括号有效的最少添加](https://github.com/Mathstarry/Leetcode/tree/master/problems/0921_minAddToMakeValid)
+* [1014. 最佳观光组合](https://github.com/Mathstarry/Leetcode/tree/master/problems/1014_maxScoreSightseeingPair)
+---
+
 ## 2020/10/26
 * [52. N皇后 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0052_totalNQueens)
 * [977. 有序数组的平方](https://github.com/Mathstarry/Leetcode/tree/master/problems/0977_sortedSquares)
