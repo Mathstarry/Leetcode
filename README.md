@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/27 新增了题目 [19. 删除链表的倒数第N个节点...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0019_removeNthFromEnd) 中等   
 2020/10/26 新增了题目 [52. N皇后 II...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0052_totalNQueens) 困难   
 2020/10/25 新增了题目 [1002. 查找常用字符](https://github.com/Mathstarry/Leetcode/tree/master/problems/1002_commonChars) 简单   
 2020/10/24 新增了题目 [436. 寻找右区间...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0436_findRightInterval) 中等   
-2020/10/23 新增了题目 [1626. 无矛盾的最佳球队...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1626_bestTeamScore) 中等   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
