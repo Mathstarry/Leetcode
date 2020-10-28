@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/28
+* [844. 比较含退格的字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/0844_backspaceCompare)
+---
+
 ## 2020/10/27
 * [19. 删除链表的倒数第N个节点](https://github.com/Mathstarry/Leetcode/tree/master/problems/0019_removeNthFromEnd)
 * [921. 使括号有效的最少添加](https://github.com/Mathstarry/Leetcode/tree/master/problems/0921_minAddToMakeValid)
