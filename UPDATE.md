@@ -1,6 +1,11 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/29
+* [143. 重排链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0143_reorderList)
+* [925. 长按键入](https://github.com/Mathstarry/Leetcode/tree/master/problems/0925_isLongPressedName)
+---
+
 ## 2020/10/28
 * [844. 比较含退格的字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/0844_backspaceCompare)
 ---
