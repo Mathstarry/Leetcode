@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/10/30 新增了题目 [234. 回文链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0234_isPalindromee) 简单   
 2020/10/29 新增了题目 [143. 重排链表...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0143_reorderList) 中等   
 2020/10/28 新增了题目 [844. 比较含退格的字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/0844_backspaceCompare) 简单   
 2020/10/27 新增了题目 [19. 删除链表的倒数第N个节点...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0019_removeNthFromEnd) 中等   
-2020/10/26 新增了题目 [52. N皇后 II...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0052_totalNQueens) 困难   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
