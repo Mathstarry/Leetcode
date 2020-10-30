@@ -1,6 +1,11 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/30
+* [234. 回文链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0234_isPalindromee)
+* [763. 划分字母区间](https://github.com/Mathstarry/Leetcode/tree/master/problems/0763_partitionLabels)
+---
+
 ## 2020/10/29
 * [143. 重排链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0143_reorderList)
 * [925. 长按键入](https://github.com/Mathstarry/Leetcode/tree/master/problems/0925_isLongPressedName)
