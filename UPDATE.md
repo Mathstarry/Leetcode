@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/10/31
+* [1365. 有多少小于当前数字的数字](https://github.com/Mathstarry/Leetcode/tree/master/problems/1365_smallerNumbersThanCurrent)
+* [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/)
+* [1171. 从链表中删去总和值为零的连续节点](https://github.com/Mathstarry/Leetcode/tree/master/problems/1171_removeZeroSumSublists)
+---
+
 ## 2020/10/30
 * [234. 回文链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0234_isPalindromee)
 * [763. 划分字母区间](https://github.com/Mathstarry/Leetcode/tree/master/problems/0763_partitionLabels)
