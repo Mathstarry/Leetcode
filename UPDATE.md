@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/01
+* [144. 二叉树的前序遍历](https://github.com/Mathstarry/Leetcode/tree/master/problems/0144_preorderTraversal)
+---
+
 ## 2020/10/31
 * [1365. 有多少小于当前数字的数字](https://github.com/Mathstarry/Leetcode/tree/master/problems/1365_smallerNumbersThanCurrent)
 * [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/)
