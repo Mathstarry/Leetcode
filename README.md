@@ -13,8 +13,8 @@
 ---
 
 ## Contests 周赛
-2020/10/18 [第211场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_211.md)(457/4033)  
-2020/10/17 [第37场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_037.md)(129/2104)
+2020/11/01 [第 213 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_213.md)(441 / 3826)  
+2020/10/31 [第 38 场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_038.md)(112 / 2004)
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/README.md)
 
@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/11/01 新增了题目 [144. 二叉树的前序遍历](https://github.com/Mathstarry/Leetcode/tree/master/problems/0144_preorderTraversal) 中等   
 2020/10/31 新增了题目 [1365. 有多少小于当前数字的数字...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1365_smallerNumbersThanCurrent) 中等   
 2020/10/30 新增了题目 [234. 回文链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0234_isPalindromee) 简单   
 2020/10/29 新增了题目 [143. 重排链表...](https://github.com/Mathstarry/Leetcode/tree/master/problems/0143_reorderList) 中等   
-2020/10/28 新增了题目 [844. 比较含退格的字符串](https://github.com/Mathstarry/Leetcode/tree/master/problems/0844_backspaceCompare) 简单   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
