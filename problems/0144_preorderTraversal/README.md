@@ -10,6 +10,8 @@
 
 示例 **1**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0144_preorderTraversal/img/144_pic1.png" width = "235" height = "300" alt="" align=center />
+
 ```
 输入：root = [1,null,2,3]
 输出：[1,2,3]
@@ -26,11 +28,15 @@
 ```
 示例 **4**：
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0144_preorderTraversal/img/144_pic2.png" width = "235" height = "200" alt="" align=center />
+
 ```
 输入：root = [1,2]
 输出：[1,2]
 ```
 示例 **5**：
+
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0144_preorderTraversal/img/144_pic3.png" width = "235" height = "200" alt="" align=center />
 
 ```
 输入：root = [1,null,2]
