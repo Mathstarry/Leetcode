@@ -2,6 +2,8 @@
 
 | 日期 | 场次 | ✅ | 全国名次 | 全球排名 | 总用时 | 错误提交 | 周赛积分 |
 | -- | -- | :--: | :--: | :--: | :--: | :--: | :--: |
+| 2020/11/01 | [第 213 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_213.md) | 3 / 4 | 441 / 3826 | 1317 / 10630 | 0:43:31 |  |  |
+| 2020/10/31 | [第 38 场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_038.md) | 4 / 4 | 112 / 2004 | 329 / 7446 | 1:08:05 | **1** |  |
 | 2020/10/25 | 第 212 场周赛 | | |
 | 2020/10/18 | [第 211 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_211.md) | 2 / 4 | 457 / 4033 | 1368 / 11960 | 1:16:03 | **3** | 1847 |
 | 2020/10/17 | [第 37 场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_037.md) | 3 / 4 | 129 / 2104 | 318 / 8250 | 1:14:05 | **1** | 1827 | 
