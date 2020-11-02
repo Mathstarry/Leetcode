@@ -17,11 +17,15 @@
 解释：
 
 输入的多级列表如下图所示：
+```
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0430_flatten/img/430_pic1.png" width = "700" height = "400" alt="" align=center />
 
-
+```
 扁平化后的链表如下图：
 ```
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0430_flatten/img/430_pic2.png" width = "700" height = "80" alt="" align=center />
+
 
 示例 **2**：
 ```
