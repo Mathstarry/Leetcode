@@ -1,6 +1,11 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/02
+* [1207. 独一无二的出现次数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1207_uniqueOccurrences)
+* [430. 扁平化多级双向链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0430_flatten)
+---
+
 ## 2020/11/01
 * [144. 二叉树的前序遍历](https://github.com/Mathstarry/Leetcode/tree/master/problems/0144_preorderTraversal)
 ---
