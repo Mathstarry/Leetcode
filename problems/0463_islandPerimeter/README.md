@@ -25,6 +25,8 @@
 解释: 它的周长是下面图片中的 16 个黄色的边：
 ```
 
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0463_islandPerimeter/img/463_pic.png" width = "220" height = "220" alt="" align=center />
+
 
 
 来源：力扣（LeetCode）
