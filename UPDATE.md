@@ -1,6 +1,12 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/03
+* [1636. 按照频率将数组升序排序](https://github.com/Mathstarry/Leetcode/tree/master/problems/1636_frequencySort)
+* [463. 岛屿的周长](https://github.com/Mathstarry/Leetcode/tree/master/problems/0463_islandPerimeter)
+* [129. 求根到叶子节点数字之和](https://github.com/Mathstarry/Leetcode/tree/master/problems/0129_sumNumbers)
+---
+
 ## 2020/11/02
 * [1207. 独一无二的出现次数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1207_uniqueOccurrences)
 * [430. 扁平化多级双向链表](https://github.com/Mathstarry/Leetcode/tree/master/problems/0430_flatten)
