@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/11/04 新增了题目 [1637. 两点之间不包含任何点的最宽垂直面积](https://github.com/Mathstarry/Leetcode/tree/master/problems/1637_maxWidthOfVerticalArea) 中等   
 2020/11/03 新增了题目 [1636. 按照频率将数组升序排序...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1636_frequencySort) 简单   
 2020/11/02 新增了题目 [1207. 独一无二的出现次数...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1207_uniqueOccurrences) 简单   
 2020/11/01 新增了题目 [144. 二叉树的前序遍历](https://github.com/Mathstarry/Leetcode/tree/master/problems/0144_preorderTraversal) 中等   
-2020/10/31 新增了题目 [1365. 有多少小于当前数字的数字...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1365_smallerNumbersThanCurrent) 中等   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
