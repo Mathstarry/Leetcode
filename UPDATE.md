@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/04
+* [1637. 两点之间不包含任何点的最宽垂直面积](https://github.com/Mathstarry/Leetcode/tree/master/problems/1637_maxWidthOfVerticalArea)
+---
+
 ## 2020/11/03
 * [1636. 按照频率将数组升序排序](https://github.com/Mathstarry/Leetcode/tree/master/problems/1636_frequencySort)
 * [463. 岛屿的周长](https://github.com/Mathstarry/Leetcode/tree/master/problems/0463_islandPerimeter)
