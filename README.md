@@ -13,8 +13,8 @@
 ---
 
 ## Contests 周赛
-2020/11/01 [第 213 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_213.md)(441 / 3826)  
-2020/10/31 [第 38 场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_038.md)(112 / 2004)
+2020/11/01 [第 213 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_213.md)(363 / 3826)  
+2020/10/31 [第 38 场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_038.md)(111 / 2004)
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/README.md)
 
