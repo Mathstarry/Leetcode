@@ -13,6 +13,9 @@
  
 
 示例 **1**：
+
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1637_maxWidthOfVerticalArea/img/1637_pic.png" width = "350" height = "300" alt="" align=center />
+
 ```
 输入：points = [[8,7],[9,9],[7,4],[9,7]]
 输出：1
