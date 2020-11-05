@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/05
+* [1638. 统计只差一个字符的子串数目](https://github.com/Mathstarry/Leetcode/tree/master/problems/1638_countSubstrings)
+---
+
 ## 2020/11/04
 * [1637. 两点之间不包含任何点的最宽垂直面积](https://github.com/Mathstarry/Leetcode/tree/master/problems/1637_maxWidthOfVerticalArea)
 ---
