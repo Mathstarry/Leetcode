@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/06
+* [1639. 通过给定词典构造目标字符串的方案数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1639_numWays)
+---
+
 ## 2020/11/05
 * [1638. 统计只差一个字符的子串数目](https://github.com/Mathstarry/Leetcode/tree/master/problems/1638_countSubstrings)
 ---
