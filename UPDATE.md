@@ -1,6 +1,11 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/07
+* [1641. 统计字典序元音字符串的数目](https://github.com/Mathstarry/Leetcode/tree/master/problems/1641_countVowelStrings)
+* [1640. 能否连接形成数组](https://github.com/Mathstarry/Leetcode/tree/master/problems/1640_canFormArray)
+---
+
 ## 2020/11/06
 * [1639. 通过给定词典构造目标字符串的方案数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1639_numWays)
 ---
