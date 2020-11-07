@@ -30,9 +30,9 @@
 
 ---
 ## Update 更新日志
+2020/11/07 新增了题目 [1641. 统计字典序元音字符串的数目...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1641_countVowelStrings) 中等   
 2020/11/06 新增了题目 [1639. 通过给定词典构造目标字符串的方案数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1639_numWays) 困难   
 2020/11/05 新增了题目 [1638. 统计只差一个字符的子串数目](https://github.com/Mathstarry/Leetcode/tree/master/problems/1638_countSubstrings) 中等   
 2020/11/04 新增了题目 [1637. 两点之间不包含任何点的最宽垂直面积](https://github.com/Mathstarry/Leetcode/tree/master/problems/1637_maxWidthOfVerticalArea) 中等   
-2020/11/03 新增了题目 [1636. 按照频率将数组升序排序...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1636_frequencySort) 简单   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
