@@ -17,6 +17,9 @@
 
 示例 1：
 
+
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/1642_furthestBuilding/img/1642_pic.png" width = "600" height = "400" alt="" align=center />
+
 ```
 输入：heights = [4,2,7,6,9,14,12], bricks = 5, ladders = 1
 输出：4
