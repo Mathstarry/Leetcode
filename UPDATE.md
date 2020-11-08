@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/08
+* [1642. 可以到达的最远建筑](https://github.com/Mathstarry/Leetcode/blob/master/problems/1642_furthestBuilding/README.md)
+---
+
 ## 2020/11/07
 * [1641. 统计字典序元音字符串的数目](https://github.com/Mathstarry/Leetcode/tree/master/problems/1641_countVowelStrings)
 * [1640. 能否连接形成数组](https://github.com/Mathstarry/Leetcode/tree/master/problems/1640_canFormArray)
