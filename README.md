@@ -31,9 +31,9 @@
 
 ---
 ## Update 更新日志
+2020/11/10 新增了题目 [349. 两个数组的交集](https://github.com/Mathstarry/Leetcode/tree/master/problems/0349_intersection) 简单   
 2020/11/09 新增了题目 [140. 单词拆分 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0140_wordBreak) 困难   
 2020/11/08 新增了题目 [1642. 可以到达的最远建筑](https://github.com/Mathstarry/Leetcode/blob/master/problems/1642_furthestBuilding/README.md) 中等   
 2020/11/07 新增了题目 [1641. 统计字典序元音字符串的数目...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1641_countVowelStrings) 中等   
-2020/11/06 新增了题目 [1639. 通过给定词典构造目标字符串的方案数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1639_numWays) 困难   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
