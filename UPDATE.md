@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/12
+* [646. 最长数对链](https://github.com/Mathstarry/Leetcode/tree/master/problems/0646_findLongestChain)
+---
+
 ## 2020/11/10
 * [349. 两个数组的交集](https://github.com/Mathstarry/Leetcode/tree/master/problems/0349_intersection)
 ---
