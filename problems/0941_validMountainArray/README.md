@@ -13,7 +13,7 @@
   * A[0] < A[1] < ... A[i-1] < A[i]
   * A[i] > A[i+1] > ... > A[A.length - 1]
  
-
+<img src="https://github.com/Mathstarry/Leetcode/blob/master/problems/0941_validMountainArray/img/941_pic.png" width = "600" height = "400" alt="" align=center />
 
 
  
