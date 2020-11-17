@@ -31,9 +31,9 @@
 
 ---
 ## Update 更新日志
+2020/11/17 新增了题目 [658. 找到 K 个最接近的元素](https://github.com/Mathstarry/Leetcode/tree/master/problems/0658_findClosestElements) 中等   
 2020/11/12 新增了题目 [646. 最长数对链](https://github.com/Mathstarry/Leetcode/tree/master/problems/0646_findLongestChain) 中等   
 2020/11/10 新增了题目 [349. 两个数组的交集](https://github.com/Mathstarry/Leetcode/tree/master/problems/0349_intersection) 简单   
 2020/11/09 新增了题目 [140. 单词拆分 II](https://github.com/Mathstarry/Leetcode/tree/master/problems/0140_wordBreak) 困难   
-2020/11/08 新增了题目 [1642. 可以到达的最远建筑](https://github.com/Mathstarry/Leetcode/blob/master/problems/1642_furthestBuilding/README.md) 中等   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
