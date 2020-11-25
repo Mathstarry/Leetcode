@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/25
+* [1356. 根据数字二进制下 1 的数目排序](https://github.com/Mathstarry/Leetcode/tree/master/problems/1356_sortByBits)
+---
+
 ## 2020/11/24
 * [692. 前K个高频单词](https://github.com/Mathstarry/Leetcode/tree/master/problems/0692_topKFrequent)
 ---
