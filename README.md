@@ -31,9 +31,9 @@
 
 ---
 ## Update 更新日志
+2020/11/25 新增了题目 [1647. 字符频次唯一的最小删除次数。。。](https://github.com/Mathstarry/Leetcode/tree/master/problems/1647_minDeletions) 中等    
 2020/11/25 新增了题目 [1356. 根据数字二进制下 1 的数目排序](https://github.com/Mathstarry/Leetcode/tree/master/problems/1356_sortByBits) 简单   
 2020/11/24 新增了题目 [692. 前K个高频单词](https://github.com/Mathstarry/Leetcode/tree/master/problems/0692_topKFrequent) 中等   
 2020/11/21 新增了题目 [513. 找树左下角的值](https://github.com/Mathstarry/Leetcode/tree/master/problems/0513_findBottomLeftValue) 中等   
-2020/11/17 新增了题目 [658. 找到 K 个最接近的元素](https://github.com/Mathstarry/Leetcode/tree/master/problems/0658_findClosestElements) 中等   
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
