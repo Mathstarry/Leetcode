@@ -1,6 +1,11 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/11/28
+* [1647. 字符频次唯一的最小删除次数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1647_minDeletions)
+* [1646. 获取生成数组中的最大值](https://github.com/Mathstarry/Leetcode/tree/master/problems/1646_getMaximumGenerated)
+---
+
 ## 2020/11/25
 * [1356. 根据数字二进制下 1 的数目排序](https://github.com/Mathstarry/Leetcode/tree/master/problems/1356_sortByBits)
 ---
