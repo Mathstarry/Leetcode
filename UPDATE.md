@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/12/02
+* [1648. 销售价值减少的颜色球](https://github.com/Mathstarry/Leetcode/tree/master/problems/1648_maxProfit)
+---
+
 ## 2020/11/28
 * [1647. 字符频次唯一的最小删除次数](https://github.com/Mathstarry/Leetcode/tree/master/problems/1647_minDeletions)
 * [1646. 获取生成数组中的最大值](https://github.com/Mathstarry/Leetcode/tree/master/problems/1646_getMaximumGenerated)
