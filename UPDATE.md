@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2020/12/04
+* [1652. 拆炸弹](https://github.com/Mathstarry/Leetcode/tree/master/problems/1652_decrypt)
+---
+
 ## 2020/12/02
 * [1648. 销售价值减少的颜色球](https://github.com/Mathstarry/Leetcode/tree/master/problems/1648_maxProfit)
 ---
