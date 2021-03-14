@@ -13,9 +13,9 @@
 ---
 
 ## Contests 周赛
-2020/11/29 [第 217 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_217.md)(334 / 3744)  
-2020/11/28 [第 40 场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_040.md)(414 / 1891)  
-2020/11/22 [第 216 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_216.md)(364 / 3856)  
+2021/03/14 [第 232 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_232.md)(363 / 4801)  
+2020/12/13 [第 219 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_219.md)(201 / 3709)  
+2020/12/12 [第 41 场双周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/biweekly/biweekly_041.md)(497 / 1660)  
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/README.md)
 
@@ -31,9 +31,9 @@
 
 ---
 ## Update 更新日志
+2021/03/14 更新了第 232 场周赛
 2020/12/04 新增了题目 [1652. 拆炸弹](https://github.com/Mathstarry/Leetcode/tree/master/problems/1652_decrypt) 简单   
 2020/12/02 新增了题目 [1648. 销售价值减少的颜色球](https://github.com/Mathstarry/Leetcode/tree/master/problems/1648_maxProfit) 中等  
 2020/11/28 新增了题目 [1647. 字符频次唯一的最小删除次数...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1647_minDeletions) 中等  
-2020/11/25 新增了题目 [1356. 根据数字二进制下 1 的数目排序](https://github.com/Mathstarry/Leetcode/tree/master/problems/1356_sortByBits) 简单    
 
 [更多](https://github.com/Mathstarry/Leetcode/blob/master/UPDATE.md#Update)
