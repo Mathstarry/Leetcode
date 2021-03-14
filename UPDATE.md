@@ -1,6 +1,10 @@
 # <a name="Update">Update</a>
 
 ---
+## 2021/03/14
+* 更新了[第 232 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_232.md)
+---
+
 ## 2020/12/04
 * [1652. 拆炸弹](https://github.com/Mathstarry/Leetcode/tree/master/problems/1652_decrypt)
 ---
