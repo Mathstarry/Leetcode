@@ -31,7 +31,7 @@
 
 ---
 ## Update 更新日志
-2021/03/14 更新了第 232 场周赛
+2021/03/14 更新了[第 232 场周赛](https://github.com/Mathstarry/Leetcode/blob/master/contests/overview/weekly/weekly_232.md)  
 2020/12/04 新增了题目 [1652. 拆炸弹](https://github.com/Mathstarry/Leetcode/tree/master/problems/1652_decrypt) 简单   
 2020/12/02 新增了题目 [1648. 销售价值减少的颜色球](https://github.com/Mathstarry/Leetcode/tree/master/problems/1648_maxProfit) 中等  
 2020/11/28 新增了题目 [1647. 字符频次唯一的最小删除次数...](https://github.com/Mathstarry/Leetcode/tree/master/problems/1647_minDeletions) 中等  
